@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AliothHavocOsPatch</string>
+
+    <string-array name="xposed_scope">
+        <item>com.android.systemui</item>
+        <item>android</item>
+        <item>com.google.android.apps.wallpaper</item>
+    </string-array>
+</resources>
